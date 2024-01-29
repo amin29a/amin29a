@@ -1,7 +1,4 @@
 - 👋 Hi, I’m @amin29a
-- 👀 I’m interested in learning ML
-- 🌱 I’m currently learning vim and wpf
-- 💞️ I’m looking to collaborate on C# windows form projects
 - 📫 Reach me at "amin.mohamadiyan093@gmail.com"
 
 <!---
